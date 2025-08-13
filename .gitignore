@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+*.log
+*.env
+coverage/
+dist/
+*.lock
+*.tmp
+*.bak
+*.swp
+*.cache
+*.tgz
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
